@@ -37,31 +37,39 @@
 	border-bottom: 1px solid;
 }
 .blog-single {
+	
 	max-width: 945px;
 	margin-left: auto;
 	margin-right: auto;
+	
 }
 .blog-single h1 {
+	/*
 	text-align: center;
+	*/
 	margin-top: 30px;
 }
 .blog-single .text {
 	line-height: 31px;
 	margin-bottom: 31px;
 }
+/*
 .blog-single h1, .blog-single .date-published, .blog-single .text *:not(div) {
 	max-width: 630px;
 	margin-left: auto;
 	margin-right: auto;
 }
+*/
 .blog-single .text img {
 	max-width: 100%;
 	height: auto;
 }
 .blog-single .footer {
+	/*
 	max-width: 630px;
 	margin-left: auto;
 	margin-right: auto;
+	*/
 	line-height: 31px;
 	margin-bottom: 31px;
 }
