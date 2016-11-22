@@ -1,0 +1,12 @@
+siteTitle = "Пятиминутка React"
+siteDescr = "Подкаст о React и смежных технологиях в мире JavaScript"
+siteAuthor = "Пятиминутка React"
+
+siteTwitterUrl = "https://twitter.com/5minreact"
+siteEmailUrl = "mailto:podcast@5minreact.ru"
+siteRssUrl = "https://podster.fm/rss.xml?pid=40281"
+siteItunesUrl = "https://podster.fm/rss.xml?pid=40281"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/"
