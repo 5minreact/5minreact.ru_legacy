@@ -12,18 +12,22 @@ class SiteLinks extends React.Component {
             <div className='blog-social'>
               <ul>
                 <li>
-                  <a href={ config.siteTwitterUrl }><i className='fa fa-twitter'></i></a>
+                  <a href={ config.siteTwitterUrl } target="_blank"><i className='fa fa-twitter'></i></a>
                 </li>
                 <li>
                   <a href={ config.siteEmailUrl }><i className='fa fa-envelope-o'></i></a>
                 </li>
                 <li>
-                  <a href={ config.siteRssUrl }><i className='fa fa-rss'></i></a>
+                  <a href={ config.siteRssUrl } target="_blank"><i className='fa fa-rss'></i></a>
                 </li>
                 <li>
-                  <a href={ config.siteItunesUrl }><i className='fa fa-podcast'></i></a>
+                  <a href={ config.siteItunesUrl } target="_blank"><i className='fa fa-podcast'></i></a>
                 </li>
               </ul>
+              <p>
+              <small>Послушайте также: <a href="http://5minphp.ru" target="_blank">Пятиминутка PHP</a></small>
+              <small>Автор: <a href={ config.authorTwitterUrl } target="_blank">@PetrMyazin</a></small>
+              </p>
             </div>
             );
     }
