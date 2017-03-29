@@ -8,6 +8,6 @@ siteRssUrl = "https://podster.fm/rss.xml?pid=40281"
 siteItunesUrl = "https://itunes.apple.com/ru/podcast/patiminutka-react/id1178897992"
 authorTwitterUrl = "https://twitter.com/PetrMyazin"
 
-googleAnalyticsId = ""
+googleAnalyticsId = "UA-96344565-1"
 
 linkPrefix = "/"
