@@ -5,7 +5,7 @@ layout: post
 path: "/3-hot-module-replacement-or-react-hot-loader/"
 ---
 
-<iframe width="450" height="65" src="https://5minreact.podster.fm/3/embed/15?link=0&ap=0" frameborder="0" allowtransparency="true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/317494060&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 В чём разница между Hot Module Replacement или React Hot Loader и как это всё работает?
 

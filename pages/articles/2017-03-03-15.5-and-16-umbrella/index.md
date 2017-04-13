@@ -5,7 +5,7 @@ layout: post
 path: "/6-15.5-and-16-umbrella/"
 ---
 
-<iframe width="450" height="65" src="https://5minreact.podster.fm/6/embed/13?link=0&ap=0" frameborder="0" allowtransparency="true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/317494569&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Обсуждаем планы команды React на две ближайшие версии. 
 
