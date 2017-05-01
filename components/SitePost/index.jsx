@@ -32,7 +32,7 @@ class SitePost extends React.Component {
                   <DisqusThread
                     shortname="5minreact"
                     title={post.title}
-                    url={`http://5minreact.ru/${this.props.location.pathname}`}
+                    url={`http://5minreact.ru${this.props.location.pathname}`}
                   />
                 </div>
               </div>
