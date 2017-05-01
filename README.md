@@ -8,6 +8,8 @@
 
 Twitter: https://twitter.com/5minreact
 
-RSS: https://podster.fm/rss.xml?pid=40281
+RSS: http://feeds.soundcloud.com/users/soundcloud:users:301264956/sounds.rss
+
+Apple Podcasts (iTunes): https://itunes.apple.com/ru/podcast/patiminutka-react/id1178897992
 
 Предложения и пожелания пишите на почту [podcast@5minreact.ru](mailto:podcast@5minreact.ru)
