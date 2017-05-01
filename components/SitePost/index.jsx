@@ -1,11 +1,8 @@
 import React from 'react'
 import moment from 'moment'
 import { RouteHandler, Link } from 'react-router'
-import DocumentTitle from 'react-document-title'
 import { prefixLink } from 'gatsby-helpers'
-import access from 'safe-access'
 import { config } from 'config'
-// import ReadNext from '../ReadNext'
 import './style.css'
 import '../../static/css/highlight.css'
 
@@ -35,7 +32,7 @@ class SitePost extends React.Component {
                   <DisqusThread
                     shortname="5minreact"
                     title={post.title}
-                    url={`https://5minreact${this.props.location.pathname}`}
+                    url={`http://5minreact.ru/${this.props.location.pathname}`}
                   />
                 </div>
               </div>

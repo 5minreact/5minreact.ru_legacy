@@ -2,7 +2,6 @@ import React from 'react'
 import { RouteHandler, Link } from 'react-router'
 import { prefixLink } from 'gatsby-helpers'
 import { config } from 'config'
-import SiteNav from '../SiteNav'
 import SiteLinks from '../SiteLinks'
 import './style.css'
 import profilePic from '../../pages/5minreact_logo_512_white.png'
@@ -36,7 +35,6 @@ class SiteSidebar extends React.Component {
                   </header>
                 </div>
                 <div className='blog-options'>
-                  <SiteNav {...this.props}/>
                   <footer>
                     <SiteLinks {...this.props}/>
                   </footer>
