@@ -17,7 +17,7 @@ path: "/15-amsterdam-pwa-realworld-prepack/"
 - https://medium.com/@vnglst/react-amsterdam-conference-a30e022e9502
 - https://medium.com/@atilafassina/react-amsterdam-3fcfb7e6a15
 - https://www.youtube.com/playlist?list=PLNBNS7NRGKMHxfm0CcYNuINLdRw7r4a9M - плейлист React Amsterdam 2017
-- https://youtu.be/m_vUUgI0bo8?t=8h29m8s - Complexity: Divide and Conquer
+- https://youtu.be/3J9EJrvqOiM?list=PLNBNS7NRGKMHxfm0CcYNuINLdRw7r4a9M - Complexity: Divide and Conquer
 - http://divideandconquer.surge.sh/#1 - слайды доклада
 - https://github.com/tastejs/hacker-news-pwas
 - https://medium.com/@ericsimons/introducing-realworld-6016654d36b5
