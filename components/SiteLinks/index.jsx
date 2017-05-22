@@ -24,7 +24,7 @@ class SiteLinks extends React.Component {
                         <a href={ config.siteItunesUrl } target="_blank"><i className='fa fa-podcast'></i></a>
                     </li>
                 </ul>
-                <p><a href="http://frontendconf.ru/2017" target="_blank">Рекомендую <strong>Frontend Conf</strong><small>(5-6 июня 2017, Сколково)</small></a></p>
+                <p><a href="http://frontendconf.ru/2017" target="_blank">Рекомендую <strong>Frontend Conf</strong><small>(5-6 июня 2017, Сколково)</small></a><small>Промокод: <strong>5minCode2017</strong></small></p>
                 <p>
                     <small>Listen in English: <a href="https://5minreact.audio"
                                                  target="_blank">https://5minreact.audio</a></small>
