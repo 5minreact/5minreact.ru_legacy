@@ -5,8 +5,10 @@ siteAuthor = "Пятиминутка React"
 siteTwitterUrl = "https://twitter.com/5minreact"
 siteEmailUrl = "mailto:podcast@5minreact.ru"
 siteRssUrl = "http://feeds.soundcloud.com/users/soundcloud:users:301264956/sounds.rss"
+siteAndroidUrl = "http://www.subscribeonandroid.com./feeds.soundcloud.com/users/soundcloud:users:301264956/sounds.rss"
 siteItunesUrl = "https://itunes.apple.com/ru/podcast/%D0%BF%D1%8F%D1%82%D0%B8%D0%BC%D0%B8%D0%BD%D1%83%D1%82%D0%BA%D0%B0-react/id1178897992?mt=2&at=1010lwCk"
 authorTwitterUrl = "https://twitter.com/PetrMyazin"
+siteYouTubeUrl = "https://www.youtube.com/channel/UCtcMCp5GwNdQuloP4v5slfw/videos?view=0&sort=dd&flow=list"
 
 googleAnalyticsId = "UA-96344565-1"
 

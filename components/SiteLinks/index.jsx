@@ -10,18 +10,25 @@ class SiteLinks extends React.Component {
 
         return (
             <div className='blog-social'>
+
                 <ul>
                     <li>
-                        <a href={ config.siteTwitterUrl } target="_blank"><i className='fa fa-twitter'></i></a>
+                        <a href={ config.siteTwitterUrl } target="_blank" title="Twitter"><i className='fa fa-twitter'></i></a>
                     </li>
                     <li>
-                        <a href={ config.siteEmailUrl }><i className='fa fa-envelope-o'></i></a>
+                        <a href={ config.siteYouTubeUrl } target="_blank" title="YouTube"><i className='fa fa-youtube'></i></a>
                     </li>
                     <li>
-                        <a href={ config.siteRssUrl } target="_blank"><i className='fa fa-rss'></i></a>
+                        <a href={ config.siteEmailUrl } title="Email"><i className='fa fa-envelope-o'></i></a>
                     </li>
                     <li>
-                        <a href={ config.siteItunesUrl } target="_blank"><i className='fa fa-podcast'></i></a>
+                        <a href={ config.siteRssUrl } target="_blank" title="RSS"><i className='fa fa-rss'></i></a>
+                    </li>
+                    <li>
+                        <a href={ config.siteAndroidUrl } target="_blank" title="Subscribe on Android"><i className="fa fa-android"></i></a>
+                    </li>
+                    <li>
+                        <a href={ config.siteItunesUrl } target="_blank" title="iTunes"><i className='fa fa-podcast'></i></a>
                     </li>
                 </ul>
                 <p>Рекомендую посетить:<br />
