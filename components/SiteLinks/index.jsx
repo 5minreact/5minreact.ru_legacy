@@ -32,9 +32,7 @@ class SiteLinks extends React.Component {
                     </li>
                 </ul>
                 <p>Рекомендую посетить:<br />
-                    <a href="https://holyjs-piter.ru/" target="_blank"><strong>Holy JS</strong><small>(2-3 июня 2017, Санкт-Петербург)</small></a><small>регистрируйся с <strong>5minReactPromo</strong></small>
-                <br/>
-                <a href="http://frontendconf.ru/2017" target="_blank"><strong>Frontend Conf</strong><small>(5-6 июня 2017, Сколково)</small></a><small>регистрируйся с <strong>5minCode2017</strong></small>
+                    <a href="https://devconf.ru/" target="_blank"><strong>DevConf.ru</strong><small>(17 июня 2017, Москва)</small></a>
                 </p>
                 <p>
                     <small>Listen in English: <a href="https://5minreact.audio"
