@@ -19,6 +19,9 @@ class SiteLinks extends React.Component {
                         <a href={ config.siteYouTubeUrl } target="_blank" title="YouTube"><i className='fa fa-youtube'></i></a>
                     </li>
                     <li>
+                        <a href={ config.siteTelegramUrl } title="Telegram"><i className='fa fa-telegram'></i></a>
+                    </li>
+                    <li>
                         <a href={ config.siteEmailUrl } title="Email"><i className='fa fa-envelope-o'></i></a>
                     </li>
                     <li>

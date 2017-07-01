@@ -9,6 +9,7 @@ siteAndroidUrl = "http://www.subscribeonandroid.com./feeds.soundcloud.com/users/
 siteItunesUrl = "https://itunes.apple.com/ru/podcast/%D0%BF%D1%8F%D1%82%D0%B8%D0%BC%D0%B8%D0%BD%D1%83%D1%82%D0%BA%D0%B0-react/id1178897992?mt=2&at=1010lwCk"
 authorTwitterUrl = "https://twitter.com/PetrMyazin"
 siteYouTubeUrl = "https://www.youtube.com/channel/UCtcMCp5GwNdQuloP4v5slfw/videos?view=0&sort=dd&flow=list"
+siteTelegramUrl = "https://t.me/ru_5minreact"
 
 googleAnalyticsId = "UA-96344565-1"
 
