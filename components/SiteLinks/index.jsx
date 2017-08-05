@@ -45,6 +45,11 @@ class SiteLinks extends React.Component {
                     <small><a href="http://opencollective.com/webpack"
                               target="_blank">Спонсирую Webpack, присоединяйтесь!</a></small>
                 </p>
+                <p>
+                    Рекомендую посетить:<br />
+                    <a href="https://events.yandex.ru/events/yasubbotnik/" target="_blank"><strong>Я.Субботник</strong>, 12 авг, Спб</a><br />
+                    <a href="https://holyjs-moscow.ru/" target="_blank"><strong>HolyJS</strong>, 10-11 дек, Москва</a>
+                </p>
             </div>
         );
     }
