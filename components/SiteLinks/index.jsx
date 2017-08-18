@@ -36,15 +36,22 @@ class SiteLinks extends React.Component {
                 </ul>
 
                 <p>
+                    <small>Author: <a href={ config.authorTwitterUrl } target="_blank">@PetrMyazin</a></small>
+                    <small>Sponsor of Webpack,  <a href="http://opencollective.com/webpack"
+                                                   target="_blank">join!</a></small>
                     <small>Listen in English: <a href="https://5minreact.audio"
                                                  target="_blank">https://5minreact.audio</a></small>
-                    <small>Послушайте также: <a href="http://5minphp.ru" target="_blank">Пятиминутка PHP</a></small>
-                    <small>Автор: <a href={ config.authorTwitterUrl } target="_blank">@PetrMyazin</a></small>
+
                 </p>
                 <p>
-                    <small><a href="http://opencollective.com/webpack"
-                              target="_blank">Спонсирую Webpack, присоединяйтесь!</a></small>
+
                 </p>
+                <p>
+                    <small>Послушайте также:</small>
+                    <small><a href="https://soundcloud.com/5minangular" target="_blank">Пятиминутка Angular</a></small>
+                    <small><a href="http://5minphp.ru" target="_blank">Пятиминутка PHP</a></small>
+                </p>
+
                 <p>
                     Рекомендую посетить:<br />
                     <a href="https://events.yandex.ru/events/yasubbotnik/" target="_blank"><strong>Я.Субботник</strong>, 12 авг, Спб</a><br />
