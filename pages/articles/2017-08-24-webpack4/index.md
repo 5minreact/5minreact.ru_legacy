@@ -7,7 +7,7 @@ path: "/32-webpack4-cyclejs-errorboundaries-stackblitz-vue2preact-5minangular-np
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/339261628&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-<a href="https://5minreact.podster.fm/32/download/audio.mp3?download=yes&media=file"><i class="fa fa-download"></i> Скачать</a>
+<a href="https://5minreact.podster.fm/32/download/audio.mp3?download=yes&media=file"><i class="fa fa-download"></i> Скачать mp3 подкаста</a>
 
 Стабилизация webpack 3 планы на webpack 4, видеокурс по cycle.js и по Error Boundaries в React 16, онлайн песочница StackBlitz с кучей наворотов для React и Angular, компиляция Vue и Polymer компонет в Preact, подкаст и видеокаст Пятиминутка Angular, сайт npmtrends.com
 

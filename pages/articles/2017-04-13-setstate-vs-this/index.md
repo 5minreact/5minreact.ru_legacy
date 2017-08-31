@@ -7,7 +7,7 @@ path: "/11-setstate-vs-this/"
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/317495296&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-<a href="https://5minreact.podster.fm/11/download/audio.mp3?download=yes&media=file"><i class="fa fa-download"></i> Скачать</a>
+<a href="https://5minreact.podster.fm/11/download/audio.mp3?download=yes&media=file"><i class="fa fa-download"></i> Скачать mp3 подкаста</a>
 
 Если мы решили хранить локальное состояние компонента где-то внутри компонента (а не в Redux), стоит ли это делать в this.state или завести отдельную переменную this.effectiveValue? Отвечаю на комментарий к предыдущему эпизоду подкаста.
 
