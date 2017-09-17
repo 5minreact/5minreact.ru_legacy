@@ -54,8 +54,9 @@ class SiteLinks extends React.Component {
 
                 <p>
                     Рекомендую посетить:<br />
-                    <a href="https://events.yandex.ru/events/yasubbotnik/" target="_blank"><strong>Я.Субботник</strong>, 12 авг, Спб</a><br />
+                    <a href="https://2017.frontfest.ru/" target="_blank"><strong>FrontFest</strong>, 18 ноя, Москва</a><br />
                     <a href="https://holyjs-moscow.ru/" target="_blank"><strong>HolyJS</strong>, 10-11 дек, Москва</a>
+
                 </p>
             </div>
         );
