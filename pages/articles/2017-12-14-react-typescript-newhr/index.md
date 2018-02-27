@@ -5,7 +5,7 @@ layout: post
 path: "/38-react-typescript-newhr/"
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/369439124&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/369439124&color=%23ff5500&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <a href="https://5minreact.podster.fm/38/download/audio.mp3?download=yes&media=file"><i class="fa fa-download"></i> Скачать mp3 подкаста</a>
 
