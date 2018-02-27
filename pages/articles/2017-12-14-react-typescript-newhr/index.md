@@ -1,5 +1,5 @@
 ---
-title: "#38 - React + Typescript = ?"
+title: "#38 - React + TypeScript = ?"
 date: "2017-12-14"
 layout: post
 path: "/38-react-typescript-newhr/"
