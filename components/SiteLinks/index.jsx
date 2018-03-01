@@ -50,6 +50,7 @@ class SiteLinks extends React.Component {
                     <small>Послушайте также:</small>
                     <small><a href="https://soundcloud.com/5minangular" target="_blank">Пятиминутка Angular</a></small>
                     <small><a href="http://5minphp.ru" target="_blank">Пятиминутка PHP</a></small>
+                    <small><a href="/24-podcasts/" target="_blank">Подкасты про фронтенд</a></small>
                 </p>
             </div>
         );
