@@ -10,7 +10,7 @@ path: "/40-yandex-tracker-vs-youtrack/"
 <a href="https://5minreact.podster.fm/40/download/audio.mp3?download=yes&media=file"><i class="fa fa-download"></i> Скачать mp3 подкаста</a>
 
 Яндекс Трекер на фоне YouTrack - по свежим впечатлениям.
-Внимание: этот выпуск подкста не про React и не про фронтенд.
+Внимание: этот выпуск подкаста не про React и не про фронтенд.
 
 - https://yandex.ru/tracker/
 - https://jetbrains.ru/products/youtrack/
