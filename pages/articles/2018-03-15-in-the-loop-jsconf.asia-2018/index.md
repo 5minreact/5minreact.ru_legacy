@@ -13,4 +13,5 @@ path: "/42-in-the-loop-jsconf.asia-2018/"
 
 - https://www.youtube.com/playlist?list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl - JSConf.Asia 2018
 - https://youtu.be/cCOL7MC4Pl0 - Jake Archibald: In The Loop
+- https://youtu.be/j4_9BZezSUA - с переводом на русский
 - https://youtu.be/rLgBqT_e6Yo - Feross Aboukhadijeh: JavaScript Pranks
